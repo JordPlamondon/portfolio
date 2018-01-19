@@ -666,3 +666,6 @@ object {
 # Page Templates
 --------------------------------------------------------------*/
 /* Front page */
+body {
+  background: url("../../assets/images/isorock.jpg") no-repeat center center fixed;
+  background-size: cover; }
